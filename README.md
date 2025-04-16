@@ -7,4 +7,6 @@ Processes Cityscapes data: organizes downloaded annotations and images, counts u
 - Run `python make_data.py` to copy and rename files, creating a final data directory containing images, JSON files, and (after running) masks.  
 - Run `python count_unique_classes.py` to list unique class labels.  
 - Run `python mask_creation.py` to generate masks and a legend image.  
-Requires Python, OpenCV, and NumPy.
+
+# Task-2
+Once the dataset is prepared using Task-1, train a semantic segmentation model (UNet) by running `task_2.ipynb`. 
