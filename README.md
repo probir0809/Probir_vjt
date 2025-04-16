@@ -10,3 +10,15 @@ Processes Cityscapes data: organizes downloaded annotations and images, counts u
 
 # Task-2
 Once the dataset is prepared using Task-1, train a semantic segmentation model (UNet) by running `task_2.ipynb`. 
+
+---
+
+## 🔗 Resources
+
+- 📂 **Processed Dataset:**  
+  [https://www.kaggle.com/datasets/probirchakraborty08/dataset/data](https://www.kaggle.com/datasets/probirchakraborty08/dataset/data)
+
+- 🧠 **Trained UNet Model:**  
+  [https://www.kaggle.com/models/probirchakraborty08/unet2/](https://www.kaggle.com/models/probirchakraborty08/unet2/)
+
+> **Note:** The processed dataset and trained model are hosted on Kaggle and can be used directly in notebooks or downloaded for local use.
